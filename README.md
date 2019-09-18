@@ -1,5 +1,5 @@
-Lua 5.3 手册中文版
+Lua 5.3 中文参考手册
 
-https://www.zlogn.com/lua53doc/
+https://zlogn.github.io/lua53doc/
 
 https://cloudwu.github.io/lua53doc
